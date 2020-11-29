@@ -11,7 +11,7 @@ In this training, we'll clean all of the issues we identified in using Python an
 
 This training will consist primarily of Jupyter Notebooks  we will leverage the most common cleaning functions and methods in the pandas library to clean the nineteen quality issues and four tidiness issues identified .
 
-# what is here ? :
+# what is in here ? :
 
 
 1) Check For Missing Values.ipynb 
