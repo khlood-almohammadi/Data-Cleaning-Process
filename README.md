@@ -10,3 +10,11 @@ In this training, we'll clean all of the issues we identified in using Python an
 4-And finally, we'll clean up the quality issues  
 
 This training will consist primarily of Jupyter Notebooks  we will leverage the most common cleaning functions and methods in the pandas library to clean the nineteen quality issues and four tidiness issues identified .
+
+# what is here ? :
+
+
+1) Check For Missing Values.ipynb 
+2) Dropping Missing Variables.ipynb
+3) Drop and Drop_Duplicates.ipynb
+4) Split The Data .ipynb
