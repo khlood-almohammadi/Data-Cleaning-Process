@@ -15,7 +15,7 @@ This training will consist primarily of Jupyter Notebooks  we will leverage the 
 # what is in here ? :
 
 
-..
+
 1) Check For Missing Values.ipynb 
 2) Dropping Missing Variables.ipynb
 3) Drop and Drop_Duplicates.ipynb
