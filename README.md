@@ -4,7 +4,6 @@ It is where we fix the quality and tidiness issues that our identified in the as
 In this training, we'll clean all of the issues we identified in using Python and pandas.  
 
 
-
 # This Jupyter Notebooks will be structured as follows:    
 1-we'll learn about the data cleaning process: defining, coding, and testing     
 2-we'll address the missing data first (and learn why it is usually important to address these completeness issues first)     
