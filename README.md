@@ -22,3 +22,4 @@ This training will consist primarily of Jupyter Notebooks  we will leverage the 
 3) Drop and Drop_Duplicates.ipynb
 4) Split The Data .ipynb
 5) Melt , Merge AND Join The Columns.ipynb
+
